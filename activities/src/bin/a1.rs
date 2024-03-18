@@ -8,4 +8,8 @@
 // * Use a function to display your last name
 // * Use the println macro to display messages to the terminal
 
+fn first_name (first_name: String) -> String {
+    first_name
+}
+
 fn main() {}
