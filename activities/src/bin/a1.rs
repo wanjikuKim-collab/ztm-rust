@@ -12,4 +12,8 @@ fn first_name (first_name: String) -> String {
     first_name
 }
 
+fn last_name (last_name: String) -> String {
+    last_name
+}
+
 fn main() {}
