@@ -16,4 +16,6 @@ fn last_name (last_name: String) -> String {
     last_name
 }
 
-fn main() {}
+fn main() {
+    println!("{} {}", first_name(String::from("Faith")), last_name(String::from("Kimani")));
+}
