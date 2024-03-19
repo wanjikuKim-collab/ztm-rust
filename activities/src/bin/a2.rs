@@ -19,5 +19,5 @@ fn display_result(){
     println!("The sum of a and b is: {:?}", add(5, 6));
 }
 fn main() {
-    
+    display_result();
 }
