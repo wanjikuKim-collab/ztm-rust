@@ -15,4 +15,9 @@ fn add(a: i32, b:i32)->i32 {
 }
 
 // * Use a function to display the result
-fn main() {}
+fn display_result(){
+    println!("The sum of a and b is: {:?}", add(5, 6));
+}
+fn main() {
+    
+}
