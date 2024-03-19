@@ -10,4 +10,17 @@
 // * Use an if..else block to determine which message to display
 // * Use the println macro to display messages to the terminal
 
-fn main() {}
+fn main() {
+    // * Use a variable set to either true or false
+    let just_met = true;
+
+    // * Use an if..else block to determine which message to display
+    if just_met == true {
+        println!("hello");
+    }else{
+        println!("goodbye");
+    }
+
+
+
+}
