@@ -10,4 +10,11 @@
 // * Use a match expression to determine which message to display
 // * Use an underscore (_) to match on any value
 
-fn main() {}
+fn main() {
+    // * Use a variable set to any integer
+    const number = 6;
+
+    
+
+}
+
