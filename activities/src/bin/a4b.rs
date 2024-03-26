@@ -14,7 +14,12 @@ fn main() {
     // * Use a variable set to any integer
     const number = 6;
 
-    
-
+    // * Use a match expression to determine which message to display
+    match number{
+        1 => println!("one"),
+        2 => println!("two"),
+        3 => println!("three"),
+        _ => println!("other")
+    }
 }
 
