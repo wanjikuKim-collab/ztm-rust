@@ -13,7 +13,7 @@ fn main() {
     // * Use a variable set to any integer value
     let int_value = -3;
 
-    // * Use an if..else if..else block to determine which message to display
+    //* Use an if..else if..else block to determine which message to display
     // * Use the println macro to display messages to the terminal
     if int_value > 5{
         println!{">5"};
