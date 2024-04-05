@@ -11,5 +11,12 @@
 
 fn main() {
     // * Use a mutable integer variable
-    let mut age = 21;
+    let mut num = 0;
+
+    // * Use a loop statement
+    loop{
+
+      
+    }
+    
 }
