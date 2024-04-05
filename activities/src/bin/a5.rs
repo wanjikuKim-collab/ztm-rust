@@ -18,7 +18,12 @@ fn main() {
         // * Print the variable within the loop statement
         println!("The number is: ", num);
         num = num + 1
-      
+        
+        // * Use break to exit the loop
+        if num == 4{
+            break;
+        }
+
     }
     
 }
