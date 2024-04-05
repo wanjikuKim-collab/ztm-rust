@@ -18,6 +18,6 @@ fn main() {
     while counter != 0{
         //Counts down from 5 to 1, displays the countdown
         println!("{}", counter);
-        counter = counter -1
+        counter -= 1
     }
 }
