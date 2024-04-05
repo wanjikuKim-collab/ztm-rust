@@ -12,7 +12,13 @@
 
 fn main() {
     // * Use a mutable integer variable
-    let mut counter = 1;
+    let mut counter = 5;
 
-    
+    // * Use a while statement
+    while counter == 1{
+        // * Counts down from 5 to 1, displays the countdown
+        println!("{}", counter);
+        counter = counter + 1
+      
+    }
 }
