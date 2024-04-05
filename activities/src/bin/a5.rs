@@ -11,16 +11,16 @@
 
 fn main() {
     // * Use a mutable integer variable
-    let mut num = 0;
+    let mut num = 1;
 
     // * Use a loop statement
     loop{
         // * Print the variable within the loop statement
-        println!("The number is: ", num);
-        num = num + 1
+        println!("The number is: {}", num);
+        num = num + 1;
         
         // * Use break to exit the loop
-        if num == 4{
+        if num == 5{
             break;
         }
 
