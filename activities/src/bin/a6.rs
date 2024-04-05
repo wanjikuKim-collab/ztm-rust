@@ -10,4 +10,9 @@
 // * Print the variable within the while loop
 // * Do not use break to exit the loop
 
-fn main() {}
+fn main() {
+    // * Use a mutable integer variable
+    let mut counter = 1;
+
+    
+}
