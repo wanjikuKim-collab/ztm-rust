@@ -15,7 +15,9 @@ fn main() {
 
     // * Use a loop statement
     loop{
-
+        // * Print the variable within the loop statement
+        println!("The number is: ", num);
+        num = num + 1
       
     }
     
