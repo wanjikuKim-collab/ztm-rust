@@ -20,4 +20,6 @@ fn main() {
         println!("{}", counter);
         counter -= 1
     }
+    //then prints "done!" when complete.
+    println!("done");
 }
